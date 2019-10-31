@@ -41,7 +41,7 @@ df1['Data'] = df1['Data'].dt.strftime('%d/%m/%Y')
 
 # showing the cleaned dataframe
 print(df1)
-#         Data Ccurrency BRL/Compra BRL/Venda
+#         Data Currency BRL/Compra BRL/Venda
 #0  01/10/2019       USD     4,1734    4,1740
 #1  02/10/2019       USD     4,1540    4,1546
 #2  03/10/2019       USD     4,1006    4,1012
